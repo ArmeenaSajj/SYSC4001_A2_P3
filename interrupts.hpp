@@ -11,6 +11,7 @@
 #include<iomanip>
 #include <algorithm>
 #include<stdio.h>
+#include <tuple> 
 
 #define ADDR_BASE   0
 #define VECTOR_SIZE 2
