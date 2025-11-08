@@ -1,3 +1,0 @@
-CPU, 40
-SYSCALL, 2
-CPU, 10
