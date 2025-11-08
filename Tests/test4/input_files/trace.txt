@@ -1,6 +1,10 @@
-FORK, 10
+FORK, 12
 IF_CHILD, 0
-EXEC program1, 50
+CPU, 20
+EXEC program1, 40
 IF_PARENT, 0
-EXEC program2, 25
+CPU, 60
+CPU, 20
+CPU, 15
+EXEC program2, 30
 ENDIF, 0
