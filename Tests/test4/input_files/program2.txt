@@ -1,0 +1,2 @@
+SYSCALL, 5
+CPU, 5
