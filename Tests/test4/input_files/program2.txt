@@ -1,2 +1,1 @@
-SYSCALL, 5
-CPU, 5
+CPU, 45
